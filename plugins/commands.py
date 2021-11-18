@@ -38,7 +38,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('👥 Group 👥', url='t.me/PrimeFlix_Movies'),
-            InlineKeyboardButton('🎈 Channel 🎈', url='https://t.me/NewMoviesPF')
+            InlineKeyboardButton('🎈 Channel 🎈', url='https://t.me/PrimeFlixMovies')
             ],[
             InlineKeyboardButton('🕵 Developer 🕵', url='t.me/Wireless_TG')
             ],[
@@ -81,7 +81,7 @@ async def start(client, message):
             InlineKeyboardButton('➕ Add Me To Your Groups ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('👥 Group 👥', url='t.me/PrimeFlix_Movies'),
-            InlineKeyboardButton('🎈 Channel 🎈', url='https://t.me/NewMoviesPF')
+            InlineKeyboardButton('🎈 Channel 🎈', url='https://t.me/PrimeFlixMovies')
             ],[
             InlineKeyboardButton('🕵 Developer 🕵', url='t.me/Wireless_TG')
             ],[
@@ -111,7 +111,7 @@ async def start(client, message):
         f_caption = f"{files.file_name}"
     buttons = [
                     [
-                        InlineKeyboardButton('🎬 Movies 🎬', url='https://t.me/NewMoviesPF'),
+                        InlineKeyboardButton('🎬 Movies 🎬', url='https://t.me/PrimeFlixMovies'),
                         InlineKeyboardButton('💢 Series 💢', url='https://t.me/TvseriesCollectionsPrimeflix')
                     ]
                     ]
