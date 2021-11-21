@@ -591,7 +591,7 @@ async def auto_filter(client, message):
                 ]
             )
          )          
-            await asyncio.sleep(10)
+            await asyncio.sleep(20)
             await m.delete()
         if not btn:
             return
