@@ -578,8 +578,8 @@ async def auto_filter(client, message):
         else:
             m = await message.reply(
               text=f"""
-<b>Dear {message.from_user.mention}❤️
-\n▪️Speeling Not Correct\n\n▪️Don't Type In Malayalam, Type In English\n\n▪️Movie Not In My Files Channel</b>""",
+<b>Dear {message.from_user.mention} ❤️
+\n▪️Speeling Not Correct\n\n▪️Movie Not Released (DVD NOT RELEASED)\n\n▪️Don't Type In Malayalam, Type In English\n\n▪️Movie Not In My Files Channel</b>""",
           reply_markup=InlineKeyboardMarkup(
                 [
                     [
