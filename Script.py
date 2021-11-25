@@ -99,7 +99,7 @@ This module only works for my admins
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
-InviteLink - <code>{invite.link}</code>
+InviteLink - <code>{chat.link}</code>
 """
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
