@@ -89,7 +89,7 @@ async def next_page(bot, query):
         n_offset = 0
         
         if not files:
-        return
+            return
     if SINGLE_BUTTON:
         btn = [
             [
