@@ -106,7 +106,28 @@ python3 bot.py
 ## Credits 
 * [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/Wireless_TG)
 
+#### Dev Details
+<details><summary>Dev Details 👤:</summary>
+<p>
+<pre>
+<p align="middle">
+<img src="https://telegra.ph/file/28352faf709645537a3c1.jpg" width="100" height="100"><br>
+<img src="https://badgen.net/badge/Name/Wireless-TG/FF33FF?icon=awesome&labelColor=0080FF"></a>
+<img src="https://badgen.net/badge/Skills/😞/purple?icon=terminal&labelColor=red"></a>
+<a href="https://telegram.dog/Wireless_TG"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
+<a href="https://github.com/AaGath"><img src="https://badgen.net/badge/Follow%20on%20/Github/80FF00?icon=github&labelColor=black"></a>
+<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/YouTube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
+<a href="https://Instagram.com/aagath_"><img src="https://badgen.net/badge/Follow%20on%20/Instagram/80FF00?icon=Instagram&labelColor=black"></a>
+<p align="left">
+</p>                                                           
+                                                    
+[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/AaGath)
+[![Ask Me Anything !](https://img.shields.io/badge/🤔%20Ask%20Me-Anything-1abc9c.svg)](https://telegram.dog/AaGath)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Report%20/Bugs/red)](https://telegram.dog/Wireless_TG)
+[![Join Channel !](https://badgen.net/badge/🔊%20Join%20/Channel/Black)](https://telegram.dog/Wireless_Tg)
 
+Join Our [Telegram Group](https://www.telegram.dog/PrimeFlix_Movies) For Support/Assistance And Our [Channel](https://www.telegram.dog/Wireless_TG) For Updates.   
+   
 ## Thanks to 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
  - Thanks To Mahesh For His Awesome [Media-Search-bot](https://telegram.dog/Wireless_TG)
