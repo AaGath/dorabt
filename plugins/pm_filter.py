@@ -87,6 +87,12 @@ async def next_page(bot, query):
         n_offset = int(n_offset)
     except:
         n_offset = 0
+    if filters:
+        results.append(
+                [
+                    InlineKeyboardButton("💢 𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗠𝗮𝗶𝗻 𝗰𝗵𝗮𝗻𝗻𝗲𝗹 💢", url=f"https://t.me/PrimeFlixMovies")
+                ]
+            )
 
     if not files:
         return
