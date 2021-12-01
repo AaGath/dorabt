@@ -26,7 +26,7 @@ BUTTONS = {}
 
 LONG_IMDB_DESCRIPTION = "True"
 
-@Client.on_message(filters.group & filters.text & filters.incoming)
+@Client.on_message(filters.group & filters.text & filters.incoming & filters.private)
 async def give_filter(client,message):
     group_id = message.chat.id
     name = message.text
