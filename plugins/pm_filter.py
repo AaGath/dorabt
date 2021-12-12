@@ -589,7 +589,7 @@ async def auto_filter(client, message):
                         InlineKeyboardButton("🔍 Search On Google 🔍", url=f"https://google.com/search?q={search}")
                     ],
                     [       
-                        InlineKeyboardButton("👀 Ask To Admins", url='https://t.me/c/1634782676/17811'),
+                        InlineKeyboardButton("👀 Ask To Admins", url='https://t.me/PrimeFlix_Movies1/75911'),
                     ]
                 ]
             )
