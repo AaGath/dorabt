@@ -30,17 +30,17 @@ PICS = [
 
 # Admins, Channels & Users
 ADMINS = [1103647866]
-CHANNELS = [-1001500220248]
+CHANNELS = [-1001565029969]
 AUTH_USERS = 1103647866
 AUTH_CHANNEL = -1001568604224
-AUTH_GROUPS = -1001498025340
+AUTH_GROUPS = -1001634782676
 # MongoDB information
 DATABASE_URI = "mongodb+srv://evamaria2:evamaria2@cluster0.tx3ho.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 DATABASE_NAME = "Cluster0"
 COLLECTION_NAME = "Telegram_files"
 
 # Others
-LOG_CHANNEL = -1001500220248
+LOG_CHANNEL = -1001565029969
 SUPPORT_CHAT = "PrimeFlix_Movies"
 P_TTTI_SHOW_OFF = "True"
 IMDB = "True"
