@@ -219,7 +219,7 @@ async def delete_all_index_confirm(bot, message):
     await message.answer()
     await message.message.edit('Succesfully Deleted All The Indexed Files.')
 
-@Client.on_message(filters.command("start"))
+@Client.on_message(filters.command("about"))
 async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
     buttons = [
