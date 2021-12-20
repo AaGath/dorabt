@@ -222,10 +222,10 @@ async def delete_all_index_confirm(bot, message):
 @Client.on_message(filters.command("about"))
 async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
-    buttons = [
-        [
+        buttons = [
+            [
             InlineKeyboardButton('🎬 𝗠𝗼𝘃𝗶𝗲𝘀 🎬', url='https://t.me/PrimeFlixMovies'),
             InlineKeyboardButton('💢 𝗧𝗩 𝗦𝗲𝗿𝗶𝗲𝘀 💢', url='https://t.me/Primeflix123')
-        ]
-        ]
-    reply_markup = InlineKeyboardMarkup(buttons)
+            ]
+            ]
+        reply_markup = InlineKeyboardMarkup(buttons)
