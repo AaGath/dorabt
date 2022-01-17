@@ -6,9 +6,9 @@ id_pattern = re.compile(r'^.\d+$')
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = 7475759
-API_HASH = "9a0128b1396fb0c1e0e2af0267a44a29"
-BOT_TOKEN = "2146623895:AAGV5zzGJe0BmPkMoW5zkn9Fpuxf2i-y8O8"
+API_ID = 7140329
+API_HASH = "24ed4df5af5cc5f65078653dc887df57"
+BOT_TOKEN = "2105087650:AAFduAdjHSnQMjyEKb-ngBx57FX2cSHi2rs"
 
 # Bot settings
 CACHE_TIME = "300"
@@ -29,22 +29,22 @@ PICS = [
 ]
 
 # Admins, Channels & Users
-ADMINS = [1103647866]
-CHANNELS = [-1001500220248]
-AUTH_USERS = 1103647866
-AUTH_CHANNEL = -1001568604224
-AUTH_GROUPS = -1001634782676
+ADMINS = [1900567682]
+CHANNELS = [-1001550147565]
+AUTH_USERS = 1900567682
+AUTH_CHANNEL = -1001286541562
+AUTH_GROUPS = -1001432456168
 # MongoDB information
-DATABASE_URI = "mongodb+srv://evamaria2:evamaria2@cluster0.tx3ho.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+DATABASE_URI = "mongodb+srv://Appachan:Appachan@cluster0.8r0ey.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
 DATABASE_NAME = "Cluster0"
 COLLECTION_NAME = "Telegram_files"
 
 # Others
 LOG_CHANNEL = -1001565029969
-SUPPORT_CHAT = "PrimeFlix_Movies"
+SUPPORT_CHAT = "kochunni_boy"
 P_TTTI_SHOW_OFF = "True"
 IMDB = "True"
 MAX_LIST_ELM = 4
 SINGLE_BUTTON = eval((environ.get('SINGLE_BUTTON', "False")))
-CUSTOM_FILE_CAPTION = "`{file_name}` \n\n<b>🎬 Join For All Movies @PrimeFlix_Movies1 🎬</b>"
+CUSTOM_FILE_CAPTION = "`{file_name}` \n\n<b>🎬 Join For All Movies  🎬</b>"
 
